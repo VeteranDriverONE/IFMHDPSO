@@ -1,6 +1,6 @@
 # IFMHDPSO 
 
-本代码是论文《基于直觉模糊Memetic框架的双粒子群混合优化算法》（Hybrid Double Particle Swarm Optimization Algorithm Based on Intuitionistic Fuzzy Memetic Framework, IFMHDPSO）的源程序。
+本代码是论文“基于直觉模糊Memetic框架的双粒子群混合优化算法”（Hybrid Double Particle Swarm Optimization Algorithm Based on Intuitionistic Fuzzy Memetic Framework, IFMHDPSO）的源程序。
 
 GB/T 7714-2015 格式引文为：王毅,王侃琦,张茂省,李静.基于直觉模糊Memetic框架的双粒子群混合优化算法[J].电子学报,2021,49(06):1041-1049.
 
